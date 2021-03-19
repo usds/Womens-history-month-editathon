@@ -12,7 +12,7 @@
 | 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero |
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran | https://www.nfdw.com/history
 | 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   |
-| 7  |   |   |   |
+| 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   |
 | 8  |   |   |   |
 | 9  |   |   |   |
 | 10  |   |   |   |
