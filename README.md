@@ -28,3 +28,4 @@ PARTNER ORGANIZATIONS
 2.	The Lower Eastside Girls Club of NY 
 3.	Black Girls Code 
 4.	Girls for Gender Equity 
+5.	Girls Who Code
