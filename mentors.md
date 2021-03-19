@@ -4,7 +4,7 @@
 | 2.   | Glenette Clark  |
 | 3.   | Jeremy Zitomer |
 | 4.   | Ginny Hunt |
-| 5.   |   |
+| 5.   | Shane Strassberg  |
 | 6.   |   |
 | 7.   |   |
 | 8.   |   |
