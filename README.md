@@ -16,10 +16,10 @@ Mentors from partner organizations will undergo training in advance to ensure th
 DETAILS
 Date: March 29th 2021, 4:00-7:00pm EST
 Facilitators:
-•	The White House Gender Policy Council
-•	White House Domestic Policy Council
-•	United States Digital Service
-•	Wikimedia DC
+- The White House Gender Policy Council
+- White House Domestic Policy Council
+- United States Digital Service
+- Wikimedia DC
 Location: Virtually via Zoom
 *Partner organization mentor training will take place on Tuesday March 23rd, 2021 at TBD.
 
