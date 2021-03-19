@@ -13,7 +13,7 @@
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran | https://www.nfdw.com/history
 | 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   |
 | 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   |
-| 8  |   |   |   |
+| 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |   |
 | 9  |   |   |   |
 | 10  |   |   |   |
 | 11  |   |   |   |
