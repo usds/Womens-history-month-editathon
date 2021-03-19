@@ -8,7 +8,7 @@
  - x
  - x
 
-| #  | USDSer | Person/subject to be profiled  | If page already exists, post her |
+| #  | USDSer | Person/subject to be profiled  | If page already exists, post Wikpedia link here |
 |---|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
