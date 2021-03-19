@@ -11,7 +11,7 @@
 | 3  | Amelia Liarakos | Marieme Jamme, Founder of iamtheCODE initiative | https://en.wikipedia.org/wiki/Mari%C3%A9me_Jamme |
 | 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero |
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran | https://www.nfdw.com/history
-| 6  | Leah Siskind  | Alexis Coe   | Biographer of George Washington  |
+| 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   |
 | 7  |   |   |   |
 | 8  |   |   |   |
 | 9  |   |   |   |
