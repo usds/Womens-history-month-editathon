@@ -6,10 +6,10 @@
 
 | #  | USDSer | Person/subject to be profiled  | If page already exists, post Wikpedia link here |
 |---|---|---|---|
-| 1  | Misu Tasnim  | karen Jackson, dept. COO at CMS |   |
-| 2  |   |   |   |
-| 3  |   |   |   |
-| 4  |   |   |   |
+| 1  | Misu Tasnim  | Karen Jackson, dept. COO at CMS |   |
+| 2  | Amelia Liarakos | Dr. Marah J. Hardt, Research Co-Director for the non-profit Future of Fish and science advocate | N/A |
+| 3  | Amelia Liarakos | Marieme Jamme, Founder of iamtheCODE initiative | https://en.wikipedia.org/wiki/Mari%C3%A9me_Jamme |
+| 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero |
 | 5 |   |   |   |
 | 6  |   |   |   |
 | 7  |   |   |   |
