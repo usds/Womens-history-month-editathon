@@ -18,10 +18,10 @@
 | 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   |
 | 11  | Julia Moore  | Melody Miller, fabric designer and entrepreneur  |   |
 | 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  |
-| 13  |   |   |   |
-| 14  |   |   |   |
-| 15  |   |   |   |
-| 16  |   |   |   |
+| 13  | Leah Siskind  | Haley Van Duck, USDS cofounder  |   |
+| 14  | Leah Siskind  |  Laura Lynch |   |
+| 15  | Leah Siskind  | Viv Graubard  |   |
+| 16  | Leah Siskind | Kalisha Figures, Council on Women & Girls Advisor   |   |
 | 17  |   |   |
 | 18  |   |   |   |
 | 19  |   |   |   |
