@@ -17,7 +17,7 @@
 | 9  | Julia Moore  | Carolyn Friedlander, fabric designer and quilt artist  |   |
 | 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   |
 | 11  | Julia Moore  | Melody Miller, fabric designer and entrepreneur  |   |
-| 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  |
+| 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  | https://www.todaysparent.com/influential-parents-list/jessica-malaty-rivera/  |  https://covidtracking.com/ (she was science and comms lead for this project) 
 | 13  | Leah Siskind  | Haley Van Dyck, USDS cofounder  |   |
 | 14  | Leah Siskind  |  Laura Lynch |   |
 | 15  | Leah Siskind  | Viv Graubard  |   |
