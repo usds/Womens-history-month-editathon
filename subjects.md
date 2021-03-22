@@ -12,7 +12,7 @@
 | 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero |
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran | https://www.nfdw.com/history |  https://en.wikipedia.org/wiki/National_Federation_of_Democratic_Women
 | 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   |
-| 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  | https://www.linkedin.com/in/chenxiwang88, https://www.rsaconference.com/experts/dr-chenxiwang, https://missionnorth.com/dispatch/rain-capital-founder-chenxi-wang-on-the-state-of-security-funding-and-gender-diversity  |
+| 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   |
 | 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/ |
 | 9  | Julia Moore  | Carolyn Friedlander, fabric designer and quilt artist  |   |
 | 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   |
@@ -23,6 +23,6 @@
 | 15  | Leah Siskind  | Viv Graubard  |   |
 | 16  | Leah Siskind | Kalisha Figures, Council on Women & Girls Advisor   |   |
 | 17  | Laura Carollo  | Winnie Karanja, Founder Maydm  | https://www.forbes.com/profile/winnie-karanja/?sh=7102d0ff7287   |  https://www.ibmadison.com/winnie-karanja-maydm/  |  https://wisconsinlife.org/story/one-womans-mission-to-make-tech-open-to-all/
-| 18  |   |   |   |
+| 18  | Anissa Pérez  | Alejandra Ceja  | Former Executive Director of the White House Initiative on Educational Excellence for Hispanics | https://www.newarktrust.org/alejandra_ceja_newark_trust_board
 | 19  |   |   |   |
 | 20  |   |   |   |
