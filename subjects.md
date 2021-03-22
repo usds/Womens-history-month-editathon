@@ -22,7 +22,7 @@
 | 14  | Leah Siskind  |  Laura Lynch |   |
 | 15  | Leah Siskind  | Viv Graubard  |   |
 | 16  | Leah Siskind | Kalisha Figures, Council on Women & Girls Advisor   |   |
-| 17  |   |   |
+| 17  | Laura Carollo  | Winnie Karanja, Founder Maydm  |
 | 18  |   |   |   |
 | 19  |   |   |   |
 | 20  |   |   |   |
