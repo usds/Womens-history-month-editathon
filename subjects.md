@@ -25,4 +25,4 @@
 | 17  | Laura Carollo  | Winnie Karanja, Founder Maydm  | https://www.forbes.com/profile/winnie-karanja/?sh=7102d0ff7287    https://www.ibmadison.com/winnie-karanja-maydm/   https://wisconsinlife.org/story/one-womans-mission-to-make-tech-open-to-all/ |
 | 18  | Anissa Pérez  | Alejandra Ceja, Former Executive Director of the White House Initiative on Educational Excellence for Hispanics  | https://www.newarktrust.org/alejandra_ceja_newark_trust_board |  
 | 19  | Anissa Pérez | Dandara, Afro-Brazilian warrior of the colonial period of Brazil | https://en.wikipedia.org/wiki/Dandara | 
-| 20  | Anissa Pérez | Elvia Carrillo Puerto, feminist activist | https://en.wikipedia.org/wiki/Elvia_Carrillo_Puerto  https://www.buzzfeed.com/danielacadena/latin-american-women-who-made-history  | 
+| 20  | Anissa Pérez | Elvia Carrillo Puerto, feminist activist | https://en.wikipedia.org/wiki/Elvia_Carrillo_Puerto  https://www.buzzfeed.com/danielacadena/latin-american-women-who-made-history https://womensactivism.nyc/stories/6525  | 
