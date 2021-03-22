@@ -6,7 +6,7 @@
 | 4.   | Ginny Hunt |
 | 5.   | Shane Strassberg  |
 | 6.   |  Caroline Smith |
-| 7.   |   |
+| 7.   | Angela Grossfeld  |
 | 8.   |   |
 | 9.   |   |
 | 10.   |   |
