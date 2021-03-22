@@ -7,20 +7,20 @@
 | #  | USDSer | Person/subject to be profiled  | Wiki page (if it exists) and three add'l links |
 |---|---|---|---|
 | 1  | Misu Tasnim  | Karen Jackson, dept. COO at CMS |   | 
-| 2  | Amelia Liarakos | Dr. Marah J. Hardt, Research Co-Director for the non-profit Future of Fish and science advocate | https://www.ted.com/speakers/marah_j_hardt, https://futureoffish.org/, https://twitter.com/marahh2o?lang=en, http://www.sexinthesea.org/, https://www.linkedin.com/in/marahhardt/ | 
-| 3  | Amelia Liarakos | Marieme Jamme, Founder of iamtheCODE initiative | https://en.wikipedia.org/wiki/Mari%C3%A9me_Jamme, https://mariemejamme.com/, https://twitter.com/mjamme, https://www.linkedin.com/in/mariemejamme/, https://www.iamthecode.org/our-team/, https://webfoundation.org/about/board/marieme-jamme/ | 
-| 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero, https://www.politico.eu/list/politico-28-2018-ranking/flavia-kleiner/, https://www.ironcurtainproject.eu/en/popup/flavia-kleiner-ik-vecht-om-de-status-quo-te-verdedigen/, https://twitter.com/kleinerflavia, http://podcasts.pushkin.fm/solvable-flavia-kleiner, https://www.theguardian.com/world/2019/apr/07/we-had-to-fight-operation-libero-the-swiss-youth-group-taking-on-populism | 
+| 2  | Amelia Liarakos | Dr. Marah J. Hardt, Research Co-Director for the non-profit Future of Fish and science advocate | N/A | 
+| 3  | Amelia Liarakos | Marieme Jamme, Founder of iamtheCODE initiative | https://en.wikipedia.org/wiki/Mari%C3%A9me_Jamme | 
+| 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero | 
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran   https://www.nfdw.com/history   https://en.wikipedia.org/wiki/National_Federation_of_Democratic_Women 
-| 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  | https://www.alexiscoe.com/bio https://www.today.com/tmrw/how-alexis-coe-made-history-cool-again-t186052 https://www.washingtonpost.com/history/2020/02/15/alexis-coe-george-washington-biography/ | 
+| 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   | 
 | 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   | 
-| 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/   https://www.ted.com/talks/antionette_carroll_designing_for_justice  https://roddenberryfoundation.org/blog/fellow/antionette-d-carroll/
+| 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/ | 
 | 9  | Julia Moore  | Carolyn Friedlander, fabric designer and quilt artist  | https://carolynfriedlander.com/press/#lightbox/0/z https://www.seamwork.com/magazine/2017/11/carolyn-friedlander  https://issuu.com/lwmainstreet/docs/newsletter_lwms page 8  https://nymag.com/strategist/article/things-you-need-to-quilt.html  https://mailchi.mp/grainlinestudio/tee-up-new-lark-tee-variation-packs-are-here-1009477?e=b940550814|  |  
 | 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   | 
 | 11  | Julia Moore  | Melody Miller, fabric designer and entrepreneur  |   | 
 | 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  https://www.todaysparent.com/influential-parents-list/jessica-malaty-rivera/    https://covidtracking.com/ (she was science and comms lead for this project)  |
-| 13  | Leah Siskind  | Haley Van Dyck, USDS cofounder  | https://www.fedscoop.com/haley-van-dyck-leaves-usds/ https://www.ted.com/speakers/haley_van_dyck https://www.govtech.com/workforce/USDS-Co-Founder-to-Return-to-White-House.html  | 
-| 14  | Leah Siskind  |  Clare Martorana | https://en.wikipedia.org/wiki/Clare_Martorana https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/09/president-biden-announces-key-hire-for-the-office-of-management-and-budget/ https://www.fastcompany.com/90612932/biden-clare-martorana-chief-information-officer   | 
-| 15  | Leah Siskind  | Viv Graubard  | https://www.newamerica.org/our-people/vivian-graubard/ https://www.yesshecanbook.com/vivian https://assembly.malala.org/stories/vivian-graubard-interview | 
+| 13  | Leah Siskind  | Haley Van Dyck, USDS cofounder  |   | 
+| 14  | Leah Siskind  |  Laura Lynch |   | 
+| 15  | Leah Siskind  | Viv Graubard  |   | 
 | 16  | Leah Siskind | Kalisha Figures, Council on Women & Girls Advisor   |   | 
 | 17  | Laura Carollo  | Winnie Karanja, Founder Maydm  | https://www.forbes.com/profile/winnie-karanja/?sh=7102d0ff7287    https://www.ibmadison.com/winnie-karanja-maydm/   https://wisconsinlife.org/story/one-womans-mission-to-make-tech-open-to-all/ |
 | 18  | Anissa Pérez  | Alejandra Ceja, Former Executive Director of the White House Initiative on Educational Excellence for Hispanics  | https://www.newarktrust.org/alejandra_ceja_newark_trust_board https://plen.org/portfolio/alejandra-ceja/ <br> https://chci.org/alumni/alejandra-ceja/|  
@@ -30,5 +30,4 @@
 | 22 | Anissa Pérez | Marisel Vera, Author | https://www.mariselvera.com/ <br> https://greensboro.com/entertainment/books/chicagos-marisel-vera-explores-puerto-ricos-history-in-new-novel-the-taste-of-sugar/article_ca557518-331e-11eb-84f9-4386d229d8c3.html <br> https://www.chicagotribune.com/entertainment/books/ct-books-the-taste-of-sugar-puerto-rico-tt-1109-20201112-bee3yajcsjgtjjxlpoz3gq3oga-story.html
 | 23 | Anissa Pérez | Iris Veronica Jimenez, Chef and Culinary Director | https://www.lacasitapupusas.com/team-member/iris-jimenez/ https://lacosechadc.com/merchants/la-casita-pupuseria-market/ https://www.nbcwashington.com/news/local/the-pupusa-iconic-salvadoran-dish-is-a-dc-mainstay-national-pupusa-day/2106358/
 | 24 | Anissa Pérez | Gretel Perera and Rocío Medina, co-founders of Latinas in Tech group | https://latinasintech.org/about/  <br> https://california.comcast.com/2018/05/29/latinas-in-tech-from-a-blind-date-to-empowering-more-than-2000-latinas-in-the-technology-industry/ <br> https://employdiversitynetwork.com/blog/2019/9/27/latinas-in-tech-break-through-barriers |
-| 25 | Eunice García |Ellen Ochoa, NASA astronaut | https://en.wikipedia.org/wiki/Ellen_Ochoa  <br> https://www.thoughtco.com/famous-hispanic-women-3529314 <br> https://www.energy.gov/articles/five-fast-facts-about-astronaut-ellen-ochoa |
-
+| 25 | Anissa Pérez | Nancy Navarro, Montgomery County Councilmember (first Latina councilmember)|  https://www.montgomerycountymd.gov/Navarro/about.html <br> https://www.usatoday.com/story/news/nation/2021/03/05/maryland-lawmaker-nancy-navarro-mocked-accent-virtual-meeting/4595819001/ <br> https://www.montgomeryschoolsmd.org/press/index.aspx?pagetype=showrelease&id=2148&type=all&startYear=&pageNumber=125&mode=
