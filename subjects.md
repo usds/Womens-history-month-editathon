@@ -12,7 +12,7 @@
 | 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero |
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran | https://www.nfdw.com/history |  https://en.wikipedia.org/wiki/National_Federation_of_Democratic_Women
 | 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   |
-| 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   |
+| 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  | https://www.linkedin.com/in/chenxiwang88, https://www.rsaconference.com/experts/dr-chenxiwang, https://missionnorth.com/dispatch/rain-capital-founder-chenxi-wang-on-the-state-of-security-funding-and-gender-diversity  |
 | 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/ |
 | 9  | Julia Moore  | Carolyn Friedlander, fabric designer and quilt artist  |   |
 | 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   |
