@@ -13,7 +13,7 @@
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran   https://www.nfdw.com/history   https://en.wikipedia.org/wiki/National_Federation_of_Democratic_Women 
 | 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  | https://www.alexiscoe.com/bio https://www.today.com/tmrw/how-alexis-coe-made-history-cool-again-t186052 https://www.washingtonpost.com/history/2020/02/15/alexis-coe-george-washington-biography/ | 
 | 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   | 
-| 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/ | 
+| 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/   https://www.ted.com/talks/antionette_carroll_designing_for_justice  https://roddenberryfoundation.org/blog/fellow/antionette-d-carroll/
 | 9  | Julia Moore  | Carolyn Friedlander, fabric designer and quilt artist  | https://carolynfriedlander.com/press/#lightbox/0/z https://www.seamwork.com/magazine/2017/11/carolyn-friedlander  https://issuu.com/lwmainstreet/docs/newsletter_lwms page 8  https://nymag.com/strategist/article/things-you-need-to-quilt.html  https://mailchi.mp/grainlinestudio/tee-up-new-lark-tee-variation-packs-are-here-1009477?e=b940550814|  |  
 | 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   | 
 | 11  | Julia Moore  | Melody Miller, fabric designer and entrepreneur  |   | 
