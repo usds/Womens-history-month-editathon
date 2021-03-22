@@ -20,3 +20,9 @@
 | 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  |
 | 13  |   |   |   |
 | 14  |   |   |   |
+| 15  |   |   |   |
+| 16  |   |   |   |
+| 17  |   |   |
+| 18  |   |   |   |
+| 19  |   |   |   |
+| 20  |   |   |   |
