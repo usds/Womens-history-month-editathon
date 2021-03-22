@@ -7,9 +7,9 @@
 | #  | USDSer | Person/subject to be profiled  | Wiki page (if it exists) and three add'l links |
 |---|---|---|---|
 | 1  | Misu Tasnim  | Karen Jackson, dept. COO at CMS |   | 
-| 2  | Amelia Liarakos | Dr. Marah J. Hardt, Research Co-Director for the non-profit Future of Fish and science advocate | N/A | 
-| 3  | Amelia Liarakos | Marieme Jamme, Founder of iamtheCODE initiative | https://en.wikipedia.org/wiki/Mari%C3%A9me_Jamme | 
-| 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero | 
+| 2  | Amelia Liarakos | Dr. Marah J. Hardt, Research Co-Director for the non-profit Future of Fish and science advocate | https://www.ted.com/speakers/marah_j_hardt, https://futureoffish.org/, https://twitter.com/marahh2o?lang=en, http://www.sexinthesea.org/, https://www.linkedin.com/in/marahhardt/ | 
+| 3  | Amelia Liarakos | Marieme Jamme, Founder of iamtheCODE initiative | https://en.wikipedia.org/wiki/Mari%C3%A9me_Jamme, https://mariemejamme.com/, https://twitter.com/mjamme, https://www.linkedin.com/in/mariemejamme/, https://www.iamthecode.org/our-team/, https://webfoundation.org/about/board/marieme-jamme/ | 
+| 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero, https://www.politico.eu/list/politico-28-2018-ranking/flavia-kleiner/, https://www.ironcurtainproject.eu/en/popup/flavia-kleiner-ik-vecht-om-de-status-quo-te-verdedigen/, https://twitter.com/kleinerflavia, http://podcasts.pushkin.fm/solvable-flavia-kleiner, https://www.theguardian.com/world/2019/apr/07/we-had-to-fight-operation-libero-the-swiss-youth-group-taking-on-populism | 
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran   https://www.nfdw.com/history   https://en.wikipedia.org/wiki/National_Federation_of_Democratic_Women 
 | 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   | 
 | 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   | 
