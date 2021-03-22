@@ -4,7 +4,7 @@
 -Create a list of 30 women to profile in advance so that the girls can maximize use of the 3-hour edit-a-thon.
 
 
-| #  | USDSer | Person/subject to be profiled  | If page already exists, post Wikpedia link here |  |
+| #  | USDSer | Person/subject to be profiled  | If page already exists, post Wikpedia link here | Include three add'l links |
 |---|---|---|---|---|
 | 1  | Misu Tasnim  | Karen Jackson, dept. COO at CMS |   | |
 | 2  | Amelia Liarakos | Dr. Marah J. Hardt, Research Co-Director for the non-profit Future of Fish and science advocate | N/A | |
