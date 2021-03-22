@@ -20,7 +20,7 @@
 | 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  https://www.todaysparent.com/influential-parents-list/jessica-malaty-rivera/    https://covidtracking.com/ (she was science and comms lead for this project)  |
 | 13  | Leah Siskind  | Haley Van Dyck, USDS cofounder  | https://www.fedscoop.com/haley-van-dyck-leaves-usds/ https://www.ted.com/speakers/haley_van_dyck https://www.govtech.com/workforce/USDS-Co-Founder-to-Return-to-White-House.html  | 
 | 14  | Leah Siskind  |  Laura Lynch |   | 
-| 15  | Leah Siskind  | Viv Graubard  |   | 
+| 15  | Leah Siskind  | Viv Graubard  | https://www.newamerica.org/our-people/vivian-graubard/ https://www.yesshecanbook.com/vivian https://assembly.malala.org/stories/vivian-graubard-interview | 
 | 16  | Leah Siskind | Kalisha Figures, Council on Women & Girls Advisor   |   | 
 | 17  | Laura Carollo  | Winnie Karanja, Founder Maydm  | https://www.forbes.com/profile/winnie-karanja/?sh=7102d0ff7287    https://www.ibmadison.com/winnie-karanja-maydm/   https://wisconsinlife.org/story/one-womans-mission-to-make-tech-open-to-all/ |
 | 18  | Anissa Pérez  | Alejandra Ceja, Former Executive Director of the White House Initiative on Educational Excellence for Hispanics  | https://www.newarktrust.org/alejandra_ceja_newark_trust_board https://plen.org/portfolio/alejandra-ceja/ <br> https://chci.org/alumni/alejandra-ceja/|  
