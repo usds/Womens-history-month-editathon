@@ -18,7 +18,7 @@
 | 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   | 
 | 11  | Julia Moore  | Melody Miller, fabric designer and entrepreneur  |   | 
 | 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  https://www.todaysparent.com/influential-parents-list/jessica-malaty-rivera/    https://covidtracking.com/ (she was science and comms lead for this project)  |
-| 13  | Leah Siskind  | Haley Van Dyck, USDS cofounder  |   | 
+| 13  | Leah Siskind  | Haley Van Dyck, USDS cofounder  | https://www.fedscoop.com/haley-van-dyck-leaves-usds/ https://www.ted.com/speakers/haley_van_dyck https://www.govtech.com/workforce/USDS-Co-Founder-to-Return-to-White-House.html  | 
 | 14  | Leah Siskind  |  Laura Lynch |   | 
 | 15  | Leah Siskind  | Viv Graubard  |   | 
 | 16  | Leah Siskind | Kalisha Figures, Council on Women & Girls Advisor   |   | 
