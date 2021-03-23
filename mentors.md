@@ -8,7 +8,7 @@
 | 6.   |  Caroline Smith |
 | 7.   | Angela Grossfeld  |
 | 8.   | Amelia Liarakos  |
-| 9.   | Laura Carolla  |
+| 9.   | Laura Carollo  |
 | 10.   |  Julia Moore |
 
 
