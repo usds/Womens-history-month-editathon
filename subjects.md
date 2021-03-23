@@ -19,7 +19,7 @@
 | 11  | Julia Moore  | Melody Miller, fabric designer and entrepreneur  | http://melodymiller.net/  https://www.rubystarsociety.com/designers/melody  http://www.southernfabricblog.com/interviews-with-designers-featuring-melody-miller-2/  | 
 | 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  https://www.todaysparent.com/influential-parents-list/jessica-malaty-rivera/    https://covidtracking.com/ (she was science and comms lead for this project)  |
 | 13  | Leah Siskind  | Haley Van Dyck, US Digita Service cofounder  | http://www.haleyvandyck.com/  https://www.ted.com/speakers/haley_van_dyck https://www.fastcompany.com/person/haley-van-dyck| 
-| 14  | Leah Siskind  |  Clare Martonana |  https://www.fastcompany.com/90612932/biden-clare-martorana-chief-information-officer | 
+| 14  | Leah Siskind  |  Clare Martonana https://en.wikipedia.org/wiki/Clare_Martorana  |  https://www.fastcompany.com/90612932/biden-clare-martorana-chief-information-officer https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/09/president-biden-announces-key-hire-for-the-office-of-management-and-budget/ | 
 | 15  | Leah Siskind  | Viv Graubard  |   | 
 | 16  | Leah Siskind | Kalisha Figures, Council on Women & Girls Advisor   |   | 
 | 17  | Laura Carollo  | Winnie Karanja, Founder Maydm  | https://www.forbes.com/profile/winnie-karanja/?sh=7102d0ff7287    https://www.ibmadison.com/winnie-karanja-maydm/   https://wisconsinlife.org/story/one-womans-mission-to-make-tech-open-to-all/ |
