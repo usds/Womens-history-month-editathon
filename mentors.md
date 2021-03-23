@@ -7,9 +7,9 @@
 | 5.   | Shane Strassberg  |
 | 6.   |  Caroline Smith |
 | 7.   | Angela Grossfeld  |
-| 8.   |   |
-| 9.   |   |
-| 10.   |   |
+| 8.   | Amelia Liarakos  |
+| 9.   | Laura Carolla  |
+| 10.   |  Julia Moore |
 
 
 Backup mentors:
