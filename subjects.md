@@ -11,7 +11,7 @@
 | 3  | Amelia Liarakos | Marieme Jamme, Founder of iamtheCODE initiative | https://en.wikipedia.org/wiki/Mari%C3%A9me_Jamme | 
 | 4  | Amelia Liarakos |  Flavia Kleiner, Cofounder of Operation Libero | Operatin Libero has a page: https://en.wikipedia.org/wiki/Operation_Libero | 
 | 5 | Laura Carollo  | Rilla Moran, first President of the National Federation of Democratic Women  |  https://en.wikipedia.org/wiki/Rilla_Moran   https://www.nfdw.com/history   https://en.wikipedia.org/wiki/National_Federation_of_Democratic_Women 
-| 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  |   | 
+| 6  | Leah Siskind  | Alexis Coe, Biographer of George Washington  | https://www.alexiscoe.com/ https://www.historians.org/publications-and-directories/perspectives-on-history/november-2020/expanding-the-genre-alexis-coe-writes-an-accessible-washington-biography https://www.today.com/tmrw/how-alexis-coe-made-history-cool-again-t186052  | 
 | 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   | 
 | 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/ | 
 | 9  | Julia Moore  | Carolyn Friedlander, fabric designer and quilt artist  | https://carolynfriedlander.com/press/#lightbox/0/z https://www.seamwork.com/magazine/2017/11/carolyn-friedlander  https://issuu.com/lwmainstreet/docs/newsletter_lwms page 8  https://nymag.com/strategist/article/things-you-need-to-quilt.html  https://mailchi.mp/grainlinestudio/tee-up-new-lark-tee-variation-packs-are-here-1009477?e=b940550814|  |  
