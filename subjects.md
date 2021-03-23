@@ -15,7 +15,7 @@
 | 7  | Elizabeth Schweinsberg | Dr. Chenxi Wang, Computer Security researcher  |   | 
 | 8  | Laura Carollo  | Antionette Carroll, designer, founder creative reaction lab  |  https://dc.aiga.org/event/building-equity-through-design-with-antionette-carroll/ | 
 | 9  | Julia Moore  | Carolyn Friedlander, fabric designer and quilt artist  | https://carolynfriedlander.com/press/#lightbox/0/z https://www.seamwork.com/magazine/2017/11/carolyn-friedlander  https://issuu.com/lwmainstreet/docs/newsletter_lwms page 8  https://nymag.com/strategist/article/things-you-need-to-quilt.html  https://mailchi.mp/grainlinestudio/tee-up-new-lark-tee-variation-packs-are-here-1009477?e=b940550814|  |  
-| 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur |   | 
+| 10  | Julia Moore  | Rashida Coleman-Hale, illustrator, fabric designer, and entrepreneur | https://www.rashidacolemanhale.com/about https://stitchpleasepodcast.com/episodes/rashida-coleman-hale-part-1-ml424io_  https://www.penguinrandomhouse.com/authors/2207770/rashida-coleman-hale | 
 | 11  | Julia Moore  | Melody Miller, fabric designer and entrepreneur  |   | 
 | 12  | Laura Carollo  |  Jessica Malaty Rivera, infectious disease epidemiology  | https://wikitia.com/wiki/Jessica_Malaty_Rivera  https://www.todaysparent.com/influential-parents-list/jessica-malaty-rivera/    https://covidtracking.com/ (she was science and comms lead for this project)  |
 | 13  | Leah Siskind  | Haley Van Dyck, USDS cofounder  |   | 
