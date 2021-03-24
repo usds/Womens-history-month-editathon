@@ -9,7 +9,7 @@
 | 7.   | Angela Grossfeld  |
 | 8.   | Amelia Liarakos  |
 | 9.   | Laura Carollo  |
-| 10.   |  Julia Moore |
+| 10.   | Christina C |
 
 
 Backup mentors:
